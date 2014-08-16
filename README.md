@@ -1,4 +1,4 @@
-# gobble-coffee
+# gobble-esnext
 
 Compile ES6 files with gobble and [esnext](https://github.com/esnext/esnext).
 
