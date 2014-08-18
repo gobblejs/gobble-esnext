@@ -1,10 +1,10 @@
 {
   "name": "gobble-esnext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile ES6 files with gobble and esnext",
   "author": "Rich Harris",
   "dependencies": {
-    "gobble": "^0.1.1",
+    "gobble": "^0.2.0",
     "esnext": "~0.8.3"
   },
   "keywords": [
